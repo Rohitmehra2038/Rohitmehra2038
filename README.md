@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Interface design**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **--------**
 
-- 📫 How to reach me **rm16033590@gmail.com**
+- 📫 How to reach me **Rohitmehra2038@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
